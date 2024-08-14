@@ -1,0 +1,84 @@
+{
+    "questions": [
+        {
+            "text": "Что означает 'AJAX'?",
+            "answers": [
+                { "text": "Асинхронный JavaScript и XML", "isCorrect": true },
+                { "text": "Адаптивный JavaScript и XML", "isCorrect": false },
+                { "text": "Асинхронный Java и XML", "isCorrect": false }
+            ]
+        },
+        {
+            "text": "Какую роль выполняет XML в AJAX?",
+            "answers": [
+                { "text": "Передача данных между сервером и клиентом", "isCorrect": true },
+                { "text": "Создание интерфейса пользователя", "isCorrect": false },
+                { "text": "Стилизация веб-страниц", "isCorrect": false }
+            ]
+        },
+        {
+            "text": "Какая функция в JavaScript используется для создания AJAX-запросов?",
+            "answers": [
+                { "text": "XMLHttpRequest", "isCorrect": true },
+                { "text": "JSON.stringify", "isCorrect": false },
+                { "text": "fetch()", "isCorrect": false }
+            ]
+        },
+        {
+            "text": "Какие типы запросов поддерживает AJAX?",
+            "answers": [
+                { "text": "GET и POST", "isCorrect": true },
+                { "text": "PUT и DELETE", "isCorrect": false },
+                { "text": "PATCH и HEAD", "isCorrect": false }
+            ]
+        },
+        {
+            "text": "Какой формат данных чаще всего используется с AJAX?",
+            "answers": [
+                { "text": "JSON", "isCorrect": true },
+                { "text": "HTML", "isCorrect": false },
+                { "text": "CSS", "isCorrect": false }
+            ]
+        },
+        {
+            "text": "Какой статус код возвращает сервер при успешном выполнении AJAX-запроса?",
+            "answers": [
+                { "text": "200 OK", "isCorrect": true },
+                { "text": "404 Not Found", "isCorrect": false },
+                { "text": "500 Internal Server Error", "isCorrect": false }
+            ]
+        },
+        {
+            "text": "Какой метод используется для отправки данных на сервер с помощью AJAX?",
+            "answers": [
+                { "text": "POST", "isCorrect": true },
+                { "text": "GET", "isCorrect": false },
+                { "text": "DELETE", "isCorrect": false }
+            ]
+        },
+        {
+            "text": "Какой объект в JavaScript позволяет взаимодействовать с сервером асинхронно?",
+            "answers": [
+                { "text": "XMLHttpRequest", "isCorrect": true },
+                { "text": "DOM", "isCorrect": false },
+                { "text": "JSON", "isCorrect": false }
+            ]
+        },
+        {
+            "text": "Что делает метод open() в XMLHttpRequest?",
+            "answers": [
+                { "text": "Инициализирует запрос", "isCorrect": true },
+                { "text": "Отправляет запрос на сервер", "isCorrect": false },
+                { "text": "Получает данные с сервера", "isCorrect": false }
+            ]
+        },
+        {
+            "text": "Какой метод отправляет запрос на сервер после его инициализации в XMLHttpRequest?",
+            "answers": [
+                { "text": "send()", "isCorrect": true },
+                { "text": "get()", "isCorrect": false },
+                { "text": "post()", "isCorrect": false }
+            ]
+        }
+    ]
+}
